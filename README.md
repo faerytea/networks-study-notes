@@ -1,5 +1,3 @@
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-
 ### Конспект курса по компьютерным сетям
 
 Так же можно найти [тут](http://rain.ifmo.ru/~maevsky/networks/) и [тут](https://github.com/faerytea/networks-study-notes/)
